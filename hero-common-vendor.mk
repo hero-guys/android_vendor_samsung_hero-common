@@ -17,4 +17,7 @@
 # Pick up overlay for features that depend on non-open-source files
 DEVICE_PACKAGE_OVERLAYS := vendor/samsung/hero-common/overlay
 
+PRODUCT_PACKAGES += \
+   HealthService
+
 $(call inherit-product, vendor/samsung/hero-common/hero-common-vendor-blobs.mk)
