@@ -1,4 +1,4 @@
-# Copyright (C) 2017 The LineageOS Project
+V0118.0173# Copyright (C) 2017 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -49,8 +49,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hero-common/proprietary/etc/firmware/moon-dsp5-dsm.wmfw:system/etc/firmware/moon-dsp5-dsm.wmfw \
     vendor/samsung/hero-common/proprietary/etc/firmware/moon-dsp6-ez2-control.wmfw:system/etc/firmware/moon-dsp6-ez2-control.wmfw \
     vendor/samsung/hero-common/proprietary/etc/firmware/moon-dsp6-lpsd-control.bin:system/etc/firmware/moon-dsp6-lpsd-control.bin \
-    vendor/samsung/hero-common/proprietary/vendor/firmware/bcm4359C0_V0076.0133_murata.hcd:system/vendor/firmware/bcm4359C0_V0076.0133_murata.hcd \
-    vendor/samsung/hero-common/proprietary/vendor/firmware/bcm4359C0_V0076.0132_semco.hcd:system/vendor/firmware/bcm4359C0_V0076.0132_semco.hcd \
+    vendor/samsung/hero-common/proprietary/vendor/firmware/bcm4359C0_V0118.0172_murata.hcd:system/vendor/firmware/bcm4359C0_V0118.0172_murata.hcd \
+    vendor/samsung/hero-common/proprietary/vendor/firmware/bcm4359C0_V0118.0173_semco.hcd:system/vendor/firmware/bcm4359C0_V0118.0173_semco.hcd \
     vendor/samsung/hero-common/proprietary/lib/hw/camera.exynos5.so:system/lib/hw/camera.exynos5.so \
     vendor/samsung/hero-common/proprietary/lib64/hw/camera.exynos5.so:system/lib64/hw/camera.exynos5.so \
     vendor/samsung/hero-common/proprietary/lib/libexynoscamera3.so:system/lib/libexynoscamera3.so \
