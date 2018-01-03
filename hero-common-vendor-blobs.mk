@@ -213,6 +213,10 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/hero-common/proprietary/lib/libion.so:system/lib/libion.so \
   vendor/samsung/hero-common/proprietary/lib/hw/gralloc.exynos5.so:system/lib/hw/gralloc.exynos5.so \
   vendor/samsung/hero-common/proprietary/lib64/libion.so:system/lib64/libion.so \
+  vendor/samsung/hero-common/proprietary/lib/libvulkan.so:system/lib/libvulkan \
+  vendor/samsung/hero-common/proprietary/lib/libvulkan.so:system/lib64/libvulkan \
+  vendor/samsung/hero-common/proprietary/lib/vulkan.exynos5.so:system/vendor/lib/vulkan.exynos5.so \
+  vendor/samsung/hero-common/proprietary/lib64/vulkan.exynos5.so:system/vendor/lib64/vulkan.exynos5.so \
   vendor/samsung/hero-common/proprietary/lib64/hw/gralloc.exynos5.so:system/lib64/hw/gralloc.exynos5.so \
   vendor/samsung/hero-common/proprietary/etc/wifi/bcmdhd_apsta.bin_b1:system/etc/wifi/bcmdhd_apsta.bin_b1 \
   vendor/samsung/hero-common/proprietary/etc/wifi/bcmdhd_apsta.bin_b90s_b1:system/etc/wifi/bcmdhd_apsta.bin_b90s_b1 \
