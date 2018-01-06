@@ -115,7 +115,9 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/hero-common/proprietary/lib64/libwrappergps.so:system/lib64/libwrappergps.so \
   vendor/samsung/hero-common/proprietary/lib/libfloatingfeature.so:system/lib/libfloatingfeature.so \
   vendor/samsung/hero-common/proprietary/lib64/libfloatingfeature.so:system/lib64/libfloatingfeature.so \
+  vendor/samsung/hero-common/proprietary/lib/libvulkan.so:system/lib/libvulkan.so \
   vendor/samsung/hero-common/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
+  vendor/samsung/hero-common/proprietary/lib64/libvulkan.so:system/lib64/libvulkan.so \
   vendor/samsung/hero-common/proprietary/vendor/lib64/egl/libGLES_mali.so:system/vendor/lib64/egl/libGLES_mali.so \
   vendor/samsung/hero-common/proprietary/lib64/libprotobuf-cpp-fulm.so:system/lib64/libprotobuf-cpp-fulm.so \
   vendor/samsung/hero-common/proprietary/lib/libprotobuf-cpp-fulm.so:system/lib/libprotobuf-cpp-fulm.so \
@@ -317,4 +319,4 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/hero-common/proprietary/lib/libsnaace.so:system/lib/libsnaace.so \
   vendor/samsung/hero-common/proprietary/lib/libsnamrnb.so:system/lib/libsnamrnb.so \
   vendor/samsung/hero-common/proprietary/lib/libsnamrwb.so:system/lib/libsnamrwb.so \
-  vendor/samsung/hero-common/proprietary/lib/libsxqk.so:system/lib/libsxqk.so 
+  vendor/samsung/hero-common/proprietary/lib/libsxqk.so:system/lib/libsxqk.so
