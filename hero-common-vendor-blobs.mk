@@ -108,7 +108,7 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/hero-common/proprietary/lib64/libbauthtzcommon.so:system/lib64/libbauthtzcommon.so \
   vendor/samsung/hero-common/proprietary/lib64/libegis_fp_normal_sensor_test.so:system/lib64/libegis_fp_normal_sensor_test.so \
   vendor/samsung/hero-common/proprietary/lib64/libsynaFpSensorTestNwd.so:system/lib64/libsynaFpSensorTestNwd.so \
-  vendor/samsung/hero-common/proprietary/bin/gps.cer:system/bin/gps.cer \
+  vendor/samsung/hero-common/proprietary/vendor/etc/gnss/gps.cer:system/vendor/etc/gnss/gps.cer \
   vendor/samsung/hero-common/proprietary/bin/gpsd:system/bin/gpsd \
   vendor/samsung/hero-common/proprietary/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
   vendor/samsung/hero-common/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
