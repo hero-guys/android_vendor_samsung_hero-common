@@ -1,4 +1,4 @@
-# Copyright (C) 2017 The LineageOS Project
+nfc_nci.default# Copyright (C) 2017 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -162,8 +162,8 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/hero-common/proprietary/lib/libMcClient.so:system/lib/libMcClient.so \
   vendor/samsung/hero-common/proprietary/lib64/libMcClient.so:system/lib64/libMcClient.so \
   vendor/samsung/hero-common/proprietary/etc/nfc/sec_s3nrn81_rfreg.bin:system/etc/nfc/sec_s3nrn81_rfreg.bin \
-  vendor/samsung/hero-common/proprietary/lib/hw/nfc_nci.universal8890.so:system/lib/hw/nfc_nci.universal8890.so \
-  vendor/samsung/hero-common/proprietary/lib64/hw/nfc_nci.universal8890.so:system/lib64/hw/nfc_nci.universal8890.so \
+  vendor/samsung/hero-common/proprietary/lib/hw/nfc_nci.default.so:system/lib/hw/nfc_nci.default.so \
+  vendor/samsung/hero-common/proprietary/lib64/hw/nfc_nci.default.so:system/lib64/hw/nfc_nci.default.so \
   vendor/samsung/hero-common/proprietary/vendor/firmware/nfc/sec_s3nrn81_firmware.bin:system/vendor/firmware/nfc/sec_s3nrn81_firmware.bin \
   vendor/samsung/hero-common/proprietary/lib64/omx/libOMX.Exynos.AVC.Decoder.so:system/lib64/omx/libOMX.Exynos.AVC.Decoder.so \
   vendor/samsung/hero-common/proprietary/lib64/omx/libOMX.Exynos.AVC.Encoder.so:system/lib64/omx/libOMX.Exynos.AVC.Encoder.so \
@@ -318,4 +318,4 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/hero-common/proprietary/lib/libsnaace.so:system/lib/libsnaace.so \
   vendor/samsung/hero-common/proprietary/lib/libsnamrnb.so:system/lib/libsnamrnb.so \
   vendor/samsung/hero-common/proprietary/lib/libsnamrwb.so:system/lib/libsnamrwb.so \
-  vendor/samsung/hero-common/proprietary/lib/libsxqk.so:system/lib/libsxqk.so 
+  vendor/samsung/hero-common/proprietary/lib/libsxqk.so:system/lib/libsxqk.so
