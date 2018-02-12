@@ -109,7 +109,7 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/hero-common/proprietary/lib64/libegis_fp_normal_sensor_test.so:system/lib64/libegis_fp_normal_sensor_test.so \
   vendor/samsung/hero-common/proprietary/lib64/libsynaFpSensorTestNwd.so:system/lib64/libsynaFpSensorTestNwd.so \
   vendor/samsung/hero-common/proprietary/vendor/etc/gnss/gps.cer:system/vendor/etc/gnss/gps.cer \
-  vendor/samsung/hero-common/proprietary/bin/gpsd:system/bin/gpsd \
+  vendor/samsung/hero-common/proprietary/vendor/bin/hw/gpsd:system/vendor/bin/hw/gpsd \
   vendor/samsung/hero-common/proprietary/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
   vendor/samsung/hero-common/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
   vendor/samsung/hero-common/proprietary/lib64/libwrappergps.so:system/lib64/libwrappergps.so \
@@ -156,7 +156,7 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/hero-common/proprietary/lib64/libcsc.so:system/lib64/libcsc.so \
   vendor/samsung/hero-common/proprietary/app/FFFFFFFF000000000000000000000001.drbin:system/app/FFFFFFFF000000000000000000000001.drbin \
   vendor/samsung/hero-common/proprietary/app/mcRegistry/ffffffffd00000000000000000000016.tlbin:system/app/mcRegistry/ffffffffd00000000000000000000016.tlbin \
-  vendor/samsung/hero-common/proprietary/bin/mcDriverDaemon:system/bin/mcDriverDaemon \
+  vendor/samsung/hero-common/proprietary/vendor/bin/mcDriverDaemon:system/vendor/bin/mcDriverDaemon \
   vendor/samsung/hero-common/proprietary/lib/libMcRegistry.so:system/lib/libMcRegistry.so \
   vendor/samsung/hero-common/proprietary/lib64/libMcRegistry.so:system/lib64/libMcRegistry.so \
   vendor/samsung/hero-common/proprietary/lib/libMcClient.so:system/lib/libMcClient.so \
@@ -195,7 +195,7 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/hero-common/proprietary/lib64/libsecnativefeature.so:system/lib64/libsecnativefeature.so \
   vendor/samsung/hero-common/proprietary/lib64/libhr.so:system/lib64/libhr.so \
   vendor/samsung/hero-common/proprietary/etc/lhd.conf:system/etc/lhd.conf \
-  vendor/samsung/hero-common/proprietary/bin/lhd:system/bin/lhd \
+  vendor/samsung/hero-common/proprietary/vendor/bin/hw/lhd:system/vendor/bin/hw/lhd \
   vendor/samsung/hero-common/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
   vendor/samsung/hero-common/proprietary/lib64/libreference-ril.so:system/lib64/libreference-ril.so \
   vendor/samsung/hero-common/proprietary/bin/bcm_sensorhub_a1.patch:system/bin/bcm_sensorhub_a1.patch \
